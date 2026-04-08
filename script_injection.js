@@ -34,7 +34,7 @@
             platform: "Plataforma A" 
         },
         counts: {
-            ctrl: 12,
+            ctrl: 15,
             saft: 4,
             fat: 8,
             ext: 2,
